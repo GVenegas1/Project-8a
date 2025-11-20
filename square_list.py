@@ -11,6 +11,6 @@ def square_list(numbers):
         numbers[i] = numbers[i] ** 2
 
 #Example
-nums= [7,-3,12,9]
-square_list(nums)
-print(nums)
+#nums= [7,-3,12,9]
+#square_list(nums)
+#print(nums)
